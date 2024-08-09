@@ -29,6 +29,9 @@ Given the complexity of NLP tasks, I chose to use a transformer-based model, spe
 
  * __Evaluation Metrics:__ The F1 score was chosen as the primary evaluation metric due to its ability to account for both false positives and false negatives, providing a balanced measure of the model's performance.
 
+#  BERT Network Architecture
+
+
 ## Challenges Faced
 
  - __Resource Constraints:__ Training transformer models like BERT requires significant computational resources. To address this, I utilized Kaggle's online lab, which provided the necessary GPU support.
@@ -47,4 +50,5 @@ The well-explained code was shared with the data science community, contributing
 ## Quantifiable Success 
 The model's performance surpassed initial expectations, showcasing a significant improvement over traditional machine-learning models.
 
- ### The Clickbait Detection project not only honed my skills in NLP and transformer models but also provided a platform to apply these skills to a real-world problem. By addressing the challenge of clickbait detection, I developed a model that significantly improved content moderation on digital platforms. The successful implementation and high accuracy of the model underscore the potential of AI in solving complex problems in the digital content space.
+ ## In Conclusion
+The Clickbait Detection project not only honed my skills in NLP and transformer models but also provided a platform to apply these skills to a real-world problem. By addressing the challenge of clickbait detection, I developed a model that significantly improved content moderation on digital platforms. The successful implementation and high accuracy of the model underscore the potential of AI in solving complex problems in the digital content space.
