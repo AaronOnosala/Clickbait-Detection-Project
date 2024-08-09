@@ -30,7 +30,7 @@ Given the complexity of NLP tasks, I chose to use a transformer-based model, spe
  * __Evaluation Metrics:__ The F1 score was chosen as the primary evaluation metric due to its ability to account for both false positives and false negatives, providing a balanced measure of the model's performance.
 
 #  BERT Network Architecture
-
+<img width="708" alt="Screenshot 2024-08-09 at 18 09 46" src="https://github.com/user-attachments/assets/62e2c45e-2907-4ec8-8f5a-221d7a207049">
 
 ## Challenges Faced
 
