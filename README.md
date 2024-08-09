@@ -21,7 +21,7 @@ Given the complexity of NLP tasks, I chose to use a transformer-based model, spe
 
 ## AI Methods Applied During this project
 
- * __Data Preparation:__ The dataset required careful preprocessing to ensure compatibility with BERT. This involved tokenizing the headlines, padding them to ensure uniform input size, and creating attention masks.
+ * __Data Preparation:__ The dataset required careful preprocessing to ensure compatibility with BERT. This involved tokenizing the headlines, padding them to ensure uniform input size, and creating attention masks. The training dataset can be found [here.](kaggle competitions download -c data-ladies-end-of-year-hackathon)
 
  * __Model Architecture:__ I used BERT for sequence classification, fine-tuning the pre-trained model on our specific task. This approach leveraged BERT's deep understanding of language context.
 
@@ -52,3 +52,5 @@ The model's performance surpassed initial expectations, showcasing a significant
 
  ## In Conclusion
 The Clickbait Detection project not only honed my skills in NLP and transformer models but also provided a platform to apply these skills to a real-world problem. By addressing the challenge of clickbait detection, I developed a model that significantly improved content moderation on digital platforms. The successful implementation and high accuracy of the model underscore the potential of AI in solving complex problems in the digital content space.
+
+- Community: [Data Science Africa Uganda community(DSA - Uganda)](https://www.datascienceafrica.org/dsaUganda/)
