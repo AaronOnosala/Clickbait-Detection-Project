@@ -21,7 +21,7 @@ Given the complexity of NLP tasks, I chose to use a transformer-based model, spe
 
 ## AI Methods Applied During this project
 
- * __Data Preparation:__ The dataset required careful preprocessing to ensure compatibility with BERT. This involved tokenizing the headlines, padding them to ensure uniform input size, and creating attention masks. The training dataset can be found [here.](kaggle competitions download -c data-ladies-end-of-year-hackathon)
+ * __Data Preparation:__ The dataset required careful preprocessing to ensure compatibility with BERT. This involved tokenizing the headlines, padding them to ensure uniform input size, and creating attention masks. 
 
  * __Model Architecture:__ I used BERT for sequence classification, fine-tuning the pre-trained model on our specific task. This approach leveraged BERT's deep understanding of language context.
 
