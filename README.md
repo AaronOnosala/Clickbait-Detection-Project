@@ -53,4 +53,4 @@ The model's performance surpassed initial expectations, showcasing a significant
  ## In Conclusion
 The Clickbait Detection project not only honed my skills in NLP and transformer models but also provided a platform to apply these skills to a real-world problem. By addressing the challenge of clickbait detection, I developed a model that significantly improved content moderation on digital platforms. The successful implementation and high accuracy of the model underscore the potential of AI in solving complex problems in the digital content space.
 
-- Community: [Data Science Africa Uganda community(DSA - Uganda)](https://www.datascienceafrica.org/dsaUganda/)
+- Community: [Data Science Africa Uganda community(DSA - Uganda)](https://www.datascienceafrica.org/dsaUganda/) And [AI Community](https://chat.whatsapp.com/DdY8ZJH4C3qJGPftrjcPzG)
