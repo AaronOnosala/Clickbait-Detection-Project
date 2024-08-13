@@ -1,5 +1,8 @@
 # Clickbait-Detection-Project
 
+### AI Framework Used In This Project
+<img width="741" alt="Screenshot 2024-08-12 at 11 46 01" src="https://github.com/user-attachments/assets/47820292-eb6f-44ce-b30d-65314b952538">
+
 ## Project Overview
 
 The Clickbait Detection project aimed to develop a machine-learning model capable of accurately classifying headlines as either clickbait or non-clickbait. Clickbait headlines are designed to attract attention and entice users to click, often using sensationalist language. Detecting such headlines is crucial for improving the quality of content and user experience on online platforms.
